@@ -68,3 +68,6 @@ npm run dev
    - **Build command:** `npm run build`
    - **Output directory:** `dist`
 5. Click **Save and deploy**. Once Amplify finishes the build and provisioning steps, verify the generated `https://...amplifyapp.com` URL across desktop and mobile viewports.
+# SUPERPOWER.OS
+
+[ View Live Website](https://main.d1ydm7xwqwpeuj.amplifyapp.com)
