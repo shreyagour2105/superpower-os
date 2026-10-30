@@ -1,0 +1,6 @@
+{
+  "name": "SUPERPOWER.OS — Shreya S Gour Portfolio",
+  "description": "Interactive personal operating system and cybersecurity student portfolio for Shreya S Gour (AWS Student Builder Challenge).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
